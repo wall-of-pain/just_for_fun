@@ -4,7 +4,7 @@ Write-Output "Rick Roll"
 
 Start-Sleep -Seconds 1
 
-for ($i = 1; $i -le 10; $i++) { Start-Process https://www.youtube.com/watch?v=dQw4w9WgXcQ}
+for ($i = 1; $i -le 1; $i++) { Start-Process https://www.youtube.com/watch?v=dQw4w9WgXcQ}
 
 Start-Sleep -Seconds 2
 
